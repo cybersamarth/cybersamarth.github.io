@@ -22,12 +22,14 @@
 
 ## Work Experience
 **Project Management @ Cloud Security Alliance Bangalore Chapter (_Jan 2024 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Optimized member engagement strategies: Implemented targeted initiatives and programs to enhance member participation, satisfaction, and retention within the chapter, resulting in increased collaboration and community involvement.
+
+- Streamlined operational processes: Identified inefficiencies within chapter operations and implemented streamlined workflows and procedures, leading to improved organizational effectiveness, resource utilization, and overall performance.
 
 **Cybesecurity & Chapter Operations @ Cloud Security Alliance Bangalore Chapter (_June 2022 - Feb 2023_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Developed strategies for protection: Based on the analysis, devised robust cybersecurity strategies to safeguard against potential threats and breaches.
+
+- Hyper-realistic testing scenarios: Created and simulated real-world cyberattack scenarios to test the resilience and effectiveness of security measures.
 
 ## Projects
 ### Keylogger
