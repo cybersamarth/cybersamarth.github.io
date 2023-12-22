@@ -22,10 +22,12 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 - Web traffic: Fastly, Exabeam XDR, Cloudflare WAF
 - Network security: PaloAlto NGFW
 - Endpoint protection: Symantec, Sentinel One (XDR/ITDR/EDR)
+  
 ## Education
-- BE., CSE | North East Technical Frontier University (_Aug 2023_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- BE in CSE | North East Technical Frontier University (_Aug 2023_)
+             		
+## Professional Certifications
+- CSCU   CND    CEH    CHFI   ECSA    CCIO    CPEW
 
 ## Work Experience
 **Project Management @ Cloud Security Alliance Bangalore Chapter (_Jan 2024 - Present_)**
@@ -37,6 +39,16 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 - Developed strategies for protection: Based on the analysis, devised robust cybersecurity strategies to safeguard against potential threats and breaches.
 
 - Hyper-realistic testing scenarios: Created and simulated real-world cyberattack scenarios to test the resilience and effectiveness of security measures.
+
+## Volunteer Experience
+**Core Team Member -  BSides Bangalore | Bangalore**
+July 2022 - July 2023
+•	Worked as a core member in chapter operations
+•	Built Strong Relationships
+•	Took initiative to identify and execute tasks to improve service quality.
+•	Maintained excellent professional relationships by going extra mile to complete tasks voluntarily.
+•	Collaborated with team of 20 volunteers to meet needs of program participants and increase outreach.
+
 
 ## Projects
 ### Keylogger
