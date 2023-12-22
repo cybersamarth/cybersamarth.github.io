@@ -54,7 +54,7 @@ subdomains found on external sources
 IPs found external sources
 Then, a score of similarity is calculated for each response using the Levenshtein algorithm.
 
-![Bike Study](/assets/img/bike_study.jpeg)
+![Bike Study](/assets/img/ip-orgin.jpg)
 
 
 ## Publications
