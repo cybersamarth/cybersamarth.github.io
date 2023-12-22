@@ -41,13 +41,12 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 - Hyper-realistic testing scenarios: Created and simulated real-world cyberattack scenarios to test the resilience and effectiveness of security measures.
 
 ## Volunteer Experience
-**Core Team Member -  BSides Bangalore | Bangalore**
-July 2022 - July 2023
-•	Worked as a core member in chapter operations
-•	Built Strong Relationships
-•	Took initiative to identify and execute tasks to improve service quality.
-•	Maintained excellent professional relationships by going extra mile to complete tasks voluntarily.
-•	Collaborated with team of 20 volunteers to meet needs of program participants and increase outreach.
+**Core Team Member -  BSides Bangalore | Bangalore (_July 2022 - July 2023_)**
+-	Worked as a core member in chapter operations
+-	Built Strong Relationships
+-	Took initiative to identify and execute tasks to improve service quality.
+-	Maintained excellent professional relationships by going extra mile to complete tasks voluntarily.
+-	Collaborated with team of 20 volunteers to meet needs of program participants and increase outreach.
 
 
 ## Projects
