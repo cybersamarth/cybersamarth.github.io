@@ -37,11 +37,11 @@
 
 Simple node.js linux only(for now) keylogger using events.
 
-It's working exactly as: https://github.com/Bornholm/node-keyboard
+It's working exactly as: [node-keyboard](https://github.com/Bornholm/node-keyboard)
 
 I just rewrote it as simple as possible without requiring any modules and using fs.createReadStream instead of fs.open.
 
-![EEG Band Discovery](/assets/img/keylogger_img.jpg)
+![Key_Logger](/assets/img/keylogger_img.jpg)
 
 ### /IP-Origin-Finder-Protected-By-Cloudflare
 [Project Link](https://github.com/cybersamarth/IP-Origin-Finder-Protected-By-Cloudflare)
@@ -56,7 +56,7 @@ subdomains found on external sources
 IPs found external sources
 Then, a score of similarity is calculated for each response using the Levenshtein algorithm.
 
-![Bike Study](/assets/img/ip-orgin.jpg)
+![IP](/assets/img/ip-orgin.jpg)
 
 
 ## Publications
