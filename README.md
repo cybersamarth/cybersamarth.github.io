@@ -39,7 +39,7 @@ It's working exactly as: https://github.com/Bornholm/node-keyboard
 
 I just rewrote it as simple as possible without requiring any modules and using fs.createReadStream instead of fs.open.
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/keylogger_img.jpg)
 
 ### /IP-Origin-Finder-Protected-By-Cloudflare
 [Project Link](https://github.com/cybersamarth/IP-Origin-Finder-Protected-By-Cloudflare)
