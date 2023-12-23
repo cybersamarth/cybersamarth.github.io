@@ -1,6 +1,6 @@
 ## Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Sai Samarth !
 
-<img src="https://img.icons8.com/color/48/mailbox-closed-flag-down--v1.png" alt="mailbox-closed-flag-down--v1"/> <h1>Reach Me For Anything :</h1> 
+Reach Me For Anything :
 
   [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/gmail.png" alt="gmail"/>](mailto:saisamarth.infosec@gmail.com)
  [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/linkedin.png" alt="linkedin"/>](https://linkedin.com/in/cybersamarth) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/188/github.png" alt="github"/>](https://github.com/cybersamarth) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/instagram-new.png" alt="instagram-new"/>](https://instagram.com/cybersamarth/) [<img width="94" height="94" src="https://img.icons8.com/3d-fluency/94/twitter-circled.png" alt="twitter-circled"/>](https://twitter.com/cybersamarth) 
