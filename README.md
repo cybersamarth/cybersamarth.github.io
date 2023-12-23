@@ -28,14 +28,6 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 - Network security: PaloAlto NGFW
 - Endpoint protection: Symantec, Sentinel One (XDR/ITDR/EDR)
 
-### ⌨️ Programming Languages
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt ="java logo" Width="50" Height="50" /><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-plain.svg" alt ="javascript logo" Width="50" Height="50" /><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/androidstudio/androidstudio-original.svg" alt ="Android Studio logo" Width="50" Height="50" /><img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/c/c-original.svg" alt ="C logo" Width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/linux/linux-original.svg" alt ="Linux logo" Width="50" Height="50" /> <img src="https://github.com/devicons/devicon/blob/55609aa5bd817ff167afce0d965585c92040787a/icons/bash/bash-original.svg" alt ="Bash logo" Width="50" Height="50" /> <img src=https://github.com/cybersamarth/cybersamarth.github.io/assets/86919558/4774df99-dc47-427e-93ab-8f4476befa1e) Width="50" Height="50"/> <img src=https://github.com/cybersamarth/cybersamarth.github.io/assets/86919558/f1dc5d54-0616-4dc4-bfc5-cd9163e1c97f Width="50" Height="50"/> <img src=https://github.com/cybersamarth/cybersamarth.github.io/assets/86919558/d1873cd7-a5a2-42ee-915a-29e57a2ea5cd Width="50" Height="50"/> <img src=https://github.com/cybersamarth/cybersamarth.github.io/assets/86919558/0a5646b5-212b-40c2-bf7e-ad6b5d77aba0
- Width="50" Height="50"/> <img src=https://github.com/cybersamarth/cybersamarth.github.io/assets/86919558/4c6b79dd-2243-4fe7-b1de-3495bb922a4e
- Width="50" Height="50"/>
-
-
-
   
 ## 🏫 Education
 - BE in CSE | North East Technical Frontier University (_Aug 2023_)
