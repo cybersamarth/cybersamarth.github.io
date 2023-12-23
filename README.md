@@ -41,7 +41,7 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 
 - Streamlined operational processes: Identified inefficiencies within chapter operations and implemented streamlined workflows and procedures, leading to improved organizational effectiveness, resource utilization, and overall performance.
 
-**Cybesecurity & Chapter Operations @ Cloud Security Alliance Bangalore Chapter (_June 2022 - Feb 2023_)**
+**INternship-Cybesecurity & Chapter Operations @ Cloud Security Alliance Bangalore Chapter (_June 2022 - Feb 2023_)**
 - Developed strategies for protection: Based on the analysis, devised robust cybersecurity strategies to safeguard against potential threats and breaches.
 
 - Hyper-realistic testing scenarios: Created and simulated real-world cyberattack scenarios to test the resilience and effectiveness of security measures.
