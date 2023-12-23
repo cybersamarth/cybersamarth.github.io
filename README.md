@@ -91,4 +91,4 @@ Then, a score of similarity is calculated for each response using the Levenshtei
 
 ## ✍ Follow My Blog on Infosec
 
-- [Infosec Blog](https://medium.com/@cybersamarth)
+-  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/medium-new" title="Blog">](https://medium.com/@cybersamarth)  [Cybersamarth](https://medium.com/@cybersamarth)
