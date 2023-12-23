@@ -3,7 +3,7 @@ Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 📫 How to reach me: 
 [Mail](mailto:saisamarth.infosec@gmail.com)  | [LinkedIn](www.linkedin.com/in/cybersamarth) | [Twitter](https://x.com/CyberSamarth?s=20)
 
-# 👨🏻‍💻 Cybersecurity Engineer 🛡️
+# 👨🏻‍💻 Cybersecurity Researcher 🛡️
 
 ###  About Me
 -I'm based in Bangalore, a vibrant city that fuels my diverse interests and pursuits. As a Security Researcher, I constantly delve into the intricacies of digital landscapes, ensuring a safer online environment for all. Alongside this, my penchant for writing allows me to articulate complex ideas, stories, and insights.
