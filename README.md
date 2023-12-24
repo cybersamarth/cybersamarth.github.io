@@ -91,4 +91,4 @@ Then, a score of similarity is calculated for each response using the Levenshtei
 
 ## <img width="55" height="55" src="https://img.icons8.com/3d-fluency/55/hand-with-pen--v2.png" alt="hand-with-pen--v2"/> Follow My Blog on Infosec
 
--  [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/medium-new" title="Blog">](https://medium.com/@cybersamarth)  [Cybersamarth](https://medium.com/@cybersamarth)
+-  [<img width="30" height="30" src="https://img.icons8.com/stickers/30/medium-logo.png" alt="medium-logo"/>](https://medium.com/@cybersamarth)  [Cybersamarth](https://medium.com/@cybersamarth)
