@@ -86,8 +86,7 @@ Then, a score of similarity is calculated for each response using the Levenshtei
 
 
 ## <img width="55" height="55" src="https://img.icons8.com/3d-fluency/94/magazine.png" alt="magazine"/> Publications
-1.OSINT Framework: Collections of Open Source Intelligence Toolsets. -<img width="30" height="30" src="https://img.icons8.com/3d-fluency/55/link.png" alt="link"/> [Published @ System Weakness]
-
+1.OSINT Framework: Collections of Open Source Intelligence Toolsets. -<img width="30" height="30" src="https://img.icons8.com/3d-fluency/55/link.png" alt="link"/> [Published @ System Weakness](https://systemweakness.com/osint-framework-collections-of-open-source-intelligence-toolsets-ea9195408a55)
 
 ## <img width="55" height="55" src="https://img.icons8.com/3d-fluency/55/hand-with-pen--v2.png" alt="hand-with-pen--v2"/> Follow My Blog on Infosec
 
