@@ -32,7 +32,7 @@ Furthermore, programming serves as both a hobby and a tool for me. It offers a c
 
   
 ## <img width="55" height="55" src="https://img.icons8.com/3d-fluency/55/graduation-cap.png" alt="graduation-cap"/> Education
-- BE in CSE | North East Technical Frontier University (_Aug 2022_)
+- BE in CSE | North East Frontier Technical University (_Aug 2022_)
              		
 ## <img width="55" height="55" src="https://img.icons8.com/3d-fluency/55/contract.png" alt="contract"/> Professional Certifications
 - CSCU   CND    CEH    CHFI   ECSA    CCIO    CPEW
