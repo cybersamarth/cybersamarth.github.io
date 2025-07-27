@@ -3,4 +3,4 @@ logo: /assets/img/headshot_circle.png
 #description: text below image
 color: black
 show_downloads: false
-theme: jekyll-theme-midnight
+theme: jekyll-theme-hacker
